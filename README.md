@@ -56,6 +56,6 @@ This is a responsive 3-column preview card component built using **HTML** and **
 
 📫 **Contact**
 **Email:-** damanisahu220@gmail.com
-**Linkedin:-**https://www.linkedin.com/in/damanisahulinkdin/
+**Linkedin:-** https://www.linkedin.com/in/damanisahulinkdin/
 
 
