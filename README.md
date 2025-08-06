@@ -45,16 +45,16 @@ This is a responsive 3-column preview card component built using **HTML** and **
 2. Open index.html in your browser.
     No frameworks or build tools needed – it's 100% static HTML/CSS.
 
-🧠 **What I Learned**
+## 🧠 What I Learned
 
     How to use CSS Grid and Flexbox together
     How to make responsive layouts with media queries
     How to create reusable card components with consistent styling
 
-🔗**Live Demo**
+## 🔗 Live Demo
   https://3-column-preivew-card-component.netlify.app/
 
-📫 **Contact**
+## 📫 Contact
 **Email:-** damanisahu220@gmail.com
 **Linkedin:-** https://www.linkedin.com/in/damanisahulinkdin/
 
